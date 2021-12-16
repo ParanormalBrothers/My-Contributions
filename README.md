@@ -3,4 +3,4 @@ Projects that I choose to get in are always have something similar with my world
 ## Projects:
 - [Massa Network](https://github.com/ParanormalBrothers/My-Contributions/blob/main/massa.md)
 - Mangata labs
-- Umi
+- Umee
