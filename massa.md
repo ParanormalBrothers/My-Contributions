@@ -7,8 +7,8 @@ Since I joined Massa, I do the following:
 - [Memes](https://disk.yandex.ru/d/UX0K7PycWHOQBw)
 
 ## Techcnical
-- Made Dashboard ([site](https://paranormal-brothers.com/massa/) [pic](https://paranormal-brothers.com/assets/img/MassaDashboard.jpg)) that helps to monitor status of the node in Testnet.
-- Made Telegram FAQ bot (@paramassa_bot), that helps admins/moders to answer to similar questions.
+- Made Dashboard ([site](https://paranormal-brothers.com/massa/), [pic](https://paranormal-brothers.com/assets/img/MassaDashboard.jpg)) that helps to monitor status of the node in Testnet.
+- Made Telegram FAQ bot ([@paramassa_bot](https://t.me/paramassa_bot)), that helps admins/moders to answer to similar questions.
 
 ## Community
 - Running node and in leaderboard
