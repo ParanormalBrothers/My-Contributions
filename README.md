@@ -6,6 +6,9 @@ Projects that I choose to get in are always have something similar with my world
 
 ## Testnets:
 - Massa
+- Celestia
+- Arable
+- Stratos
 
 ## Activity:
 - [Massa Network](https://github.com/ParanormalBrothers/My-Contributions/blob/main/massa.md)
