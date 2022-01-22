@@ -7,10 +7,11 @@ Since I joined Massa, I do the following:
 - [Memes](https://disk.yandex.ru/d/UX0K7PycWHOQBw)
 
 ## Techcnical
-- Made Dashboard ([site](https://paranormal-brothers.com/massa/), [pic](https://paranormal-brothers.com/assets/img/MassaDashboard.jpg)) that helps to monitor status of the node in Testnet.
-- Made Telegram FAQ bot ([@paramassa_bot](https://t.me/paramassa_bot)), that helps admins/moders to answer to similar questions.
+- Made Node Monitorig dashboard ([site](https://paranormal-brothers.com/massa/), [pic](https://paranormal-brothers.com/assets/img/MassaDashboard.jpg)) that helps to monitor status of the node in Testnet.
+- Made ParaMassa Telegram bot ([@paramassa_bot](https://t.me/paramassa_bot)), that helps admins/moders to answer to similar questions.
+- [Migrate a Massa node to Docker](https://github.com/ParanormalBrothers/Massa-Node-Docker)
+- Connect Node Monitoring dashboard to @paramassa_bot, that node operators can recieve alerts if something goes wrong on node.
 
 ## Community
 - Running node and in leaderboard
 - Active member of Telegram and Discord groups.
-- Guide, that helps deploy Massa node by building from scratch or use binares or make a Docker container (in edition now).
