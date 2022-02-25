@@ -13,4 +13,4 @@ Projects that I choose to get in are always have something similar with my world
 ## Activity:
 - [Massa Network](https://github.com/ParanormalBrothers/My-Contributions/blob/main/massa.md)
 - Comdex
-- Bitcana
+- [Bitcanna](https://github.com/ParanormalBrothers/My-Contributions/blob/main/bitcanna.md)
