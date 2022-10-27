@@ -5,6 +5,8 @@ Projects that I choose to get in are always have something similar with my world
 - [Massa Network](https://github.com/ParanormalBrothers/My-Contributions/blob/main/massa.md)
 - Comdex
 - [Bitcanna](https://github.com/ParanormalBrothers/My-Contributions/blob/main/bitcanna.md)
+- Persistence
+- Haqq
 
 ## Mainnets securing network:
 - [Bitcana](https://www.mintscan.io/bitcanna/validators/bcnavaloper14h2x997gt54v7akrxdfakd33x9yxa5kh9t0r9a)
